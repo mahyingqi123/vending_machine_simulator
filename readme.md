@@ -1,13 +1,13 @@
-#This project is created using python
-##It simulates a simple vending machine with the following features:  
+# This project is created using python
+## It simulates a simple vending machine with the following features:  
     1. Accept note in MYR, 1,5,10,20,50,100  
     2. Purchase of items  
     3. Return of change  
 
-##Tkinter library is used for the GUI interface, use the following command to install the library:  
+## Tkinter library is used for the GUI interface, use the following command to install the library:  
 >pip install tk  
 
-##Running the program  
+## Running the program  
 - To run the program, run the main.py file  
 - To select an item, click on one of the items.  
 - To insert a note, click on one of the notes.  
